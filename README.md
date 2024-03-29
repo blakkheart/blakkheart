@@ -22,6 +22,9 @@
 
 <p align="left">I'm python backend developer from Saint Petersburg. Name's Vlad.<br>Currently learning algorithms and async. 📚 <br><br>As Lutz once said:  "...if you find yourself running into a wall, stop running into a wall!”</p>
 
+My [Leetcode page](https://leetcode.com/blakkheart66/)
+
+
 ###
 
 <h3 align="center">🛠 My stack :</h3>
